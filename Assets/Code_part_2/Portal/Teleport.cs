@@ -29,7 +29,7 @@ public class Teleport : MonoBehaviour
         currentScale.x *= -1;
         collision.gameObject.transform.localScale = currentScale;
         collision.gameObject.transform.position = exit.transform.position;
-        frog_Movement.isFacingRight = swapFacing;
+        //frog_Movement.isFacingRight = swapFacing;
         yield return new WaitForSeconds(1f);
         collision.gameObject.SetActive(true);
         entrance_Animator.SetBool("touch", false);
