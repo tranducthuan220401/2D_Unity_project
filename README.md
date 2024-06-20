@@ -19,8 +19,8 @@ This is a puzzle-solving game with multiple different levels featuring various n
 ## Features
 
 A few levels:  
-<img src="./Images/m1.png" style="width:500px;"/> <img src="./Images/m2.png" style="width:500px;"/>  
-<img src="./Images/m3.png" style="width:500px;"/> <img src="./Images/m4.png" style="width:500px;"/>
+<img src="./Images/m1.png" style="width:300px;"/> <img src="./Images/m2.png" style="width:300px;"/>  
+<img src="./Images/m3.png" style="width:300px;"/> <img src="./Images/m4.png" style="width:300px;"/>
 
 ## Installation
 
