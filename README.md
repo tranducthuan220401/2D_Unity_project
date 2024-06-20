@@ -1,6 +1,6 @@
 # Save the frog - 2D Unity vector game
 
-This is a personal project aimed at learning and exploring programming techniques such as OOP, Event system, and 2D art design. Featuring engaging puzzle-solving gameplay, you can experience it, with new levels to be updated in the future.
+This is a personal project aimed at learning and exploring programming techniques such as OOP, Event system, and 2D art design. Featuring engaging puzzle-solving gameplay, you can experience it, with new levels to be updated in the future.  
 
 ## Table of Contents
 
@@ -12,12 +12,15 @@ This is a personal project aimed at learning and exploring programming technique
 
 ## Introduction
 
-This is a puzzle-solving game with multiple different levels featuring various new mechanics. With simple gameplay, your goal is to solve obstacles and help the frog jump to the finish line and advance to the next level.
+This is a puzzle-solving game with multiple different levels featuring various new mechanics. With simple gameplay, your goal is to solve obstacles and help the frog jump to the finish line and advance to the next level.  
+
+<img src="./Images/m0.png" style="width:500px;"/>
 
 ## Features
 
 A few levels:
-
+<img src="./Images/m1.png" style="width:500px;"/> <img src="./Images/m2.png" style="width:500px;"/>  
+<img src="./Images/m3.png" style="width:500px;"/> <img src="./Images/m4.png" style="width:500px;"/>
 
 ## Installation
 
