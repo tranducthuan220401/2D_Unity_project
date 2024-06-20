@@ -18,7 +18,7 @@ This is a puzzle-solving game with multiple different levels featuring various n
 
 ## Features
 
-A few levels:
+A few levels:  
 <img src="./Images/m1.png" style="width:500px;"/> <img src="./Images/m2.png" style="width:500px;"/>  
 <img src="./Images/m3.png" style="width:500px;"/> <img src="./Images/m4.png" style="width:500px;"/>
 
@@ -26,7 +26,7 @@ A few levels:
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following installed:  
 
 - Version: Unity 2022.3.4f1  
 - Files: you can use command "Git clone https://github.com/tranducthuan220401/2D_Unity_project.git" 
